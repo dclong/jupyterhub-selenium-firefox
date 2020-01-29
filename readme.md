@@ -3,6 +3,10 @@
 JupyterHub with Selenium configured for Firefox.
 Java and Python APIs for Selenium are supported.
 
+## Prerequisite
+You need to [install Docker](http://www.legendu.net/en/blog/docker-installation/) before you use this Docker image.
+
+
 ## Usage in Linux/Unix
 
 Please refer to the Section
